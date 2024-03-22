@@ -22,6 +22,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bintangsatyadi.bintangsatyadi&"  />
+</div>
+
+###
+
 <h1 align="center">Hey There 👋</h1>
 
 ###
@@ -30,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Bintang Satria Mulya Budi from Malang East Java Indonesia<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Kotlin, Flutter<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Bintang Satria Mulya Budi from Malang East Java Indonesia<br><br>- 🔭 I’m student at SMK Telkom Malang<br>- 📚 I'm currently learning Kotlin, Flutter</p>
 
 ###
 
@@ -53,5 +59,15 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bintangsatyadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bintangsatyadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bintangsatyadi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
